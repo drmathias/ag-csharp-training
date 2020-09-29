@@ -2,12 +2,11 @@
 
 ## Overview
 
-This repository contains demos that are part of C# training at AG.
+This repository contains demos that are part of C# training at AG. Code is located in the _src_ folder. You can use Git to copy these files on to your local machine, if you want to run the code.
 
-## Prerequesites
+## Prerequisites
 
-To run these demos on your machine, you will need to have the following software installed.
+Before you can run these demos on your machine, you will need to have __at least__ following software installed.
 
-* [VSCode](https://code.visualstudio.com/)
 * [Git](https://git-scm.com/downloads)
 * [.NET Core SDK](https://dotnet.microsoft.com/download)

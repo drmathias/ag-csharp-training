@@ -6,7 +6,7 @@ This repository contains demos that are part of C# training at AG. Code is locat
 
 ## Prerequisites
 
-Before you can run these demos on your machine, you will need to have __at least__ following software installed.
+Before you can run these demos on your machine, you will need to have __at least__ the following software installed.
 
 * [Git](https://git-scm.com/downloads)
 * [.NET Core SDK](https://dotnet.microsoft.com/download)

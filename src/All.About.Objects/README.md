@@ -1,0 +1,1 @@
+Covers defining classes and objects, how they can be used to alter program state and store and retrieve data sent between applications. Also briefly touches on immutability and why variables and properties can be used to do more complex operations such as querying.
